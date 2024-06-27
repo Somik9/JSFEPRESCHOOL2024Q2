@@ -24,7 +24,7 @@ _like a SysAdmin and it was lomg time ago_
 ## Education:
 
 * freecodecamp /HTML/CSS/JS
-* codecademy /HTML/CSS/PHP/JS
+* codecademy /HTML/CSS/JS
 * Simplelearn
 * Udemy courses
 * Coursers
