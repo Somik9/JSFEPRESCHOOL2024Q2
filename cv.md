@@ -28,7 +28,7 @@ _like a SysAdmin and it was lomg time ago_
 * Simplelearn
 * Udemy courses
 * Coursers
-* RS-School
+* RSSchool
 * educative.io
 
 ## Language:
